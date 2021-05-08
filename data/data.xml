@@ -1,0 +1,19 @@
+<Concert designation="Brussels Summer Festival">
+  <texte>Brussels Concerts</texte>
+  <Artiste>
+    <nomArtiste>Enjoy</nomArtiste>
+    <isVIP>true</isVIP>
+  </Artiste>
+  <Artiste>
+    <nomArtiste>Sardou</nomArtiste>
+    <isVIP>false</isVIP>
+  </Artiste>
+  <Artiste>
+    <nomArtiste>McGloire</nomArtiste>
+    <isVIP>true</isVIP>
+  </Artiste>
+  <Artiste>
+    <nomArtiste>McGregor</nomArtiste>
+    <isVIP>false</isVIP>
+  </Artiste>
+</Concert>
